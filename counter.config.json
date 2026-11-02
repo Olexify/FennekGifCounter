@@ -1,0 +1,31 @@
+{
+  "counterKey": "counter:FennekOS",
+  "digits": 7,
+  "assetsDir": "FennekPack",
+  "variants": 4,
+  "cell": {
+    "w": 90,
+    "h": 97
+  },
+  "style": {
+    "opacity": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "saturate": 1,
+    "scale": 1,
+    "spacing": -6,
+    "offsetY": 0,
+    "shadowOpacity": 0.35,
+    "shadowBlur": 0.6,
+    "shadowOffsetX": 1.5,
+    "shadowOffsetY": 2.5,
+    "bgOpacity": 0,
+    "rounded": 0,
+    "bgColor": "#000000"
+  },
+  "counting": {
+    "mode": "strict",
+    "cooldownSeconds": 0,
+    "bump": 1
+  }
+}
